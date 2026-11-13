@@ -1,0 +1,6 @@
+dist/
+*.aia
+*.apk
+__pycache__/
+.env
+.DS_Store
